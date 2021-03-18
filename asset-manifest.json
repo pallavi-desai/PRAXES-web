@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/praxes-web/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/praxes-web/static/js/main.6d3d6498.chunk.js",
+    "main.js.map": "/praxes-web/static/js/main.6d3d6498.chunk.js.map",
+    "runtime-main.js": "/praxes-web/static/js/runtime-main.5581bda8.js",
+    "runtime-main.js.map": "/praxes-web/static/js/runtime-main.5581bda8.js.map",
+    "static/js/2.f4fd94c5.chunk.js": "/praxes-web/static/js/2.f4fd94c5.chunk.js",
+    "static/js/2.f4fd94c5.chunk.js.map": "/praxes-web/static/js/2.f4fd94c5.chunk.js.map",
+    "static/js/3.6a37b4a2.chunk.js": "/praxes-web/static/js/3.6a37b4a2.chunk.js",
+    "static/js/3.6a37b4a2.chunk.js.map": "/praxes-web/static/js/3.6a37b4a2.chunk.js.map",
+    "index.html": "/praxes-web/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/praxes-web/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f4fd94c5.chunk.js.LICENSE.txt": "/praxes-web/static/js/2.f4fd94c5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/praxes-web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5581bda8.js",
+    "static/js/2.f4fd94c5.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.6d3d6498.chunk.js"
+  ]
+}
