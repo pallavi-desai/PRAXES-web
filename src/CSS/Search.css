@@ -1,0 +1,17 @@
+.mainDiv{
+    min-width: 500px; 
+    margin: auto;
+    width: 50%;
+}
+
+.title{
+    color: #38a1dd;
+}
+
+.searchDiv{
+    margin-bottom: 10px;
+}
+
+.tableDiv{
+    margin-top: 10px;
+}
