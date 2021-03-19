@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/praxes-web/static/css/main.bb4827e7.chunk.css",
+    "main.css": "/praxes-web/static/css/main.5cd9eb75.chunk.css",
     "main.js": "/praxes-web/static/js/main.f18fa1bf.chunk.js",
     "main.js.map": "/praxes-web/static/js/main.f18fa1bf.chunk.js.map",
     "runtime-main.js": "/praxes-web/static/js/runtime-main.7359000e.js",
@@ -10,13 +10,13 @@
     "static/js/3.bca2358f.chunk.js": "/praxes-web/static/js/3.bca2358f.chunk.js",
     "static/js/3.bca2358f.chunk.js.map": "/praxes-web/static/js/3.bca2358f.chunk.js.map",
     "index.html": "/praxes-web/index.html",
-    "static/css/main.bb4827e7.chunk.css.map": "/praxes-web/static/css/main.bb4827e7.chunk.css.map",
+    "static/css/main.5cd9eb75.chunk.css.map": "/praxes-web/static/css/main.5cd9eb75.chunk.css.map",
     "static/js/2.72aaa60f.chunk.js.LICENSE.txt": "/praxes-web/static/js/2.72aaa60f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7359000e.js",
     "static/js/2.72aaa60f.chunk.js",
-    "static/css/main.bb4827e7.chunk.css",
+    "static/css/main.5cd9eb75.chunk.css",
     "static/js/main.f18fa1bf.chunk.js"
   ]
 }
