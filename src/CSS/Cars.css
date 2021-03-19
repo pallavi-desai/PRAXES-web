@@ -7,7 +7,7 @@
   }
   
 .cars td, .cars th {
-    border: 1px solid #ddd;
+    border: 1px solid #62aebc;
     padding: 8px;
   }
 
@@ -27,7 +27,7 @@
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color:  #38a1dd;
+    background-color:  #1a7c7f;
     color: white;
   }
 
