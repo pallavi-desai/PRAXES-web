@@ -52,6 +52,7 @@ class Search extends Component {
             }
           });
         this.setState({ filteredCars });
+        console.log("testing...");
     } else{
         this.setState({ filteredCars: this.state.cars });
     }
